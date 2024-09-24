@@ -1,3 +1,7 @@
+DROP DATABASE IF EXISTS db_atividade_view;
+CREATE DATABASE db_atividade_view;
+use db_atividade_view;
+    
 CREATE TABLE aluno (
     id_aluno INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
