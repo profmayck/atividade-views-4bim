@@ -68,7 +68,7 @@ Vila Formosa
  ('Sr. Augusto da Conceição', '2004-09-08', '895.014.736-00', 'mariane35@das.br', '0500-182-4118', 'Favela Souza, 1
 Pantanal
 44485524 Freitas / PI'), 
- ('Ana Beatriz Rocha', '2003-04-05', '024.961.783-87', 'qgomes@yahoo.com.br', '+55 31 6664-6906', 'Pátio de da Rosa, 68
+ ('Ana Beatriz Rocha', '2003-04-05', '024.961.783-87', 'qgomes@yahoo.com.br', '31 6664-6906', 'Pátio de da Rosa, 68
 Conjunto Jardim Filadélfia
 61744-297 da Mota / ES'), 
  ('Enzo Farias', '2001-10-17', '817.062.539-40', 'da-luzagatha@santos.net', '11 8720-9312', 'Estrada Moura, 68
@@ -77,19 +77,19 @@ Dom Silverio
  ('Giovanna Fogaça', '2005-12-26', '750.289.316-40', 'dsilva@hotmail.com', '61 8448 4829', 'Feira Helena Moraes
 Vila Madre Gertrudes 4ª Seção
 75319-701 Ferreira da Serra / SE'), 
- ('Mariana Ferreira', '2005-08-04', '598.436.120-51', 'baragao@pinto.com', '+55 31 5134 7046', 'Vila de Campos, 6
+ ('Mariana Ferreira', '2005-08-04', '598.436.120-51', 'baragao@pinto.com', '31 5134 7046', 'Vila de Campos, 6
 Caiçara - Adelaide
 19017102 das Neves de Minas / AP'), 
  ('Arthur Caldeira', '2000-09-23', '728.915.360-02', 'alana58@sales.br', '51 7944 1087', 'Esplanada de Nascimento, 67
 Flamengo
 60507467 Nunes Verde / DF'), 
- ('Paulo Fogaça', '2000-01-13', '312.680.749-69', 'joao-gabriel74@hotmail.com', '+55 81 7627 6506', 'Largo Monteiro
+ ('Paulo Fogaça', '2000-01-13', '312.680.749-69', 'joao-gabriel74@hotmail.com', '81 7627 6506', 'Largo Monteiro
 Vila Nova Cachoeirinha 3ª Seção
 94484263 Souza do Galho / RS'), 
- ('Felipe da Cruz', '2006-04-07', '970.135.264-52', 'caldeiraemanuella@moraes.br', '+55 21 5951 2490', 'Jardim de Cavalcanti, 77
+ ('Felipe da Cruz', '2006-04-07', '970.135.264-52', 'caldeiraemanuella@moraes.br', '21 5951 2490', 'Jardim de Cavalcanti, 77
 Das Industrias I
 82176-394 da Conceição do Amparo / SE'), 
- ('João Lucas Cardoso', '1994-02-14', '374.910.285-60', 'qrezende@hotmail.com', '+55 (061) 0865-1753', 'Lago Ribeiro, 14
+ ('João Lucas Cardoso', '1994-02-14', '374.910.285-60', 'qrezende@hotmail.com', '(061) 0865-1753', 'Lago Ribeiro, 14
 Mala E Cuia
 41623204 Melo dos Dourados / AM'), 
  ('Dr. Diogo das Neves', '1993-09-28', '780.539.462-83', 'ida-mata@gmail.com', '0300 036 6481', 'Morro Elisa Freitas, 68
@@ -107,7 +107,7 @@ Fazendinha
  ('Sra. Gabriela Martins', '1997-04-20', '985.264.703-29', 'omoreira@uol.com.br', '(084) 8825 0641', 'Avenida Fernandes, 56
 Alta Tensão 1ª Seção
 64467136 Rocha de Martins / RN'), 
- ('Maria Eduarda Moraes', '2002-12-13', '374.056.928-00', 'clara36@gmail.com', '+55 (041) 2070-3297', 'Lagoa Eduarda da Cruz, 921
+ ('Maria Eduarda Moraes', '2002-12-13', '374.056.928-00', 'clara36@gmail.com', '(041) 2070-3297', 'Lagoa Eduarda da Cruz, 921
 Vila Petropolis
 83563-286 Cardoso / PR'), 
  ('Sr. Bernardo Cavalcanti', '2001-08-09', '123.075.684-17', 'almeidadavi-luiz@cunha.br', '71 8752-7233', 'Via de da Mata, 351
@@ -128,7 +128,7 @@ Vila Independencia 2ª Seção
  ('Dra. Yasmin Souza', '1995-11-02', '471.396.028-40', 'carlos-eduardomoura@uol.com.br', '84 2605 4019', 'Passarela de Gomes, 41
 Vila São Paulo
 38892-893 da Luz / RN'), 
- ('Alana Barros', '2002-08-22', '768.521.940-94', 'oliveiravitor-gabriel@hotmail.com', '+55 (041) 5081-4296', 'Parque Teixeira, 15
+ ('Alana Barros', '2002-08-22', '768.521.940-94', 'oliveiravitor-gabriel@hotmail.com', '(041) 5081-4296', 'Parque Teixeira, 15
 Leticia
 82392244 Moreira / SC'), 
  ('Manuela Fogaça', '2004-09-24', '164.238.750-90', 'castrobenicio@silveira.com', '71 6241 6687', 'Loteamento Maria Clara Aragão, 15
@@ -137,22 +137,22 @@ Caiçara - Adelaide
  ('Pedro Henrique Melo', '1997-12-01', '127.945.630-25', 'barrosmaria@lima.net', '81 3984 9067', 'Rua de Nogueira, 506
 Floresta
 18304335 da Paz do Campo / PA'), 
- ('Lavínia Ferreira', '1997-01-22', '856.430.971-84', 'jesusrafael@mendes.net', '+55 (084) 2140 6294', 'Largo de Porto, 48
+ ('Lavínia Ferreira', '1997-01-22', '856.430.971-84', 'jesusrafael@mendes.net', '(084) 2140 6294', 'Largo de Porto, 48
 Nova Gameleira
 78594-510 das Neves do Norte / DF'), 
- ('Levi Barbosa', '2003-05-19', '563.920.418-42', 'mda-cruz@duarte.net', '+55 (021) 9930 0301', 'Rodovia Ferreira, 58
+ ('Levi Barbosa', '2003-05-19', '563.920.418-42', 'mda-cruz@duarte.net', '(021) 9930 0301', 'Rodovia Ferreira, 58
 Vila Satélite
 16157-935 Moraes de Goiás / SP'), 
  ('Arthur da Costa', '1999-04-20', '367.489.520-00', 'raquel62@silveira.com', '(061) 2014-3936', 'Aeroporto Barros, 6
 Vila Da Ária
 85232680 Dias do Amparo / PB'), 
- ('Alícia Rezende', '2003-12-24', '309.127.658-95', 'pedro-henriquemoraes@da.br', '+55 (061) 1659 2820', 'Morro de da Luz, 76
+ ('Alícia Rezende', '2003-12-24', '309.127.658-95', 'pedro-henriquemoraes@da.br', '(061) 1659 2820', 'Morro de da Luz, 76
 Parque São Pedro
 65245-863 da Rocha / PA'), 
- ('Gustavo Henrique Castro', '2005-08-07', '583.401.729-05', 'alexandre80@melo.org', '+55 21 1627 6898', 'Viaduto Lorenzo Vieira, 7
+ ('Gustavo Henrique Castro', '2005-08-07', '583.401.729-05', 'alexandre80@melo.org', '21 1627 6898', 'Viaduto Lorenzo Vieira, 7
 Novo Santa Cecilia
 83883-305 Pereira / RO'), 
- ('Diogo Santos', '1999-11-13', '463.172.089-13', 'lfreitas@fernandes.com', '+55 (031) 1406-5722', 'Viaduto Cunha, 3
+ ('Diogo Santos', '1999-11-13', '463.172.089-13', 'lfreitas@fernandes.com', '(031) 1406-5722', 'Viaduto Cunha, 3
 Araguaia
 45689-655 Rocha do Campo / RS'), 
  ('Henrique Pires', '2002-08-01', '432.508.769-92', 'ygoncalves@ig.com.br', '41 7772-7961', 'Rua Carolina Gomes, 60
@@ -173,7 +173,7 @@ Tiradentes
  ('Olivia Pires', '2000-11-21', '258.469.073-00', 'fmonteiro@yahoo.com.br', '(061) 5895 1229', 'Rua Benjamin Teixeira, 75
 Alto Barroca
 89370104 da Rosa dos Dourados / AM'), 
- ('João Miguel Teixeira', '2002-03-16', '648.573.192-09', 'mariane27@castro.com', '+55 (051) 8316-1282', 'Viaduto Viana, 214
+ ('João Miguel Teixeira', '2002-03-16', '648.573.192-09', 'mariane27@castro.com', '(051) 8316-1282', 'Viaduto Viana, 214
 Conjunto Santa Maria
 74413-888 Almeida de Porto / SP'), 
  ('Benjamin Aragão', '2000-05-14', '814.073.695-39', 'kaiquenunes@rodrigues.br', '(011) 7736-5083', 'Área de Campos, 596
@@ -182,10 +182,10 @@ Vila Da Paz
  ('Dr. Caio Almeida', '1996-05-04', '654.183.279-09', 'dbarros@uol.com.br', '(081) 8486 7561', 'Travessa de Almeida, 6
 Paraíso
 07898803 Araújo do Oeste / RR'), 
- ('Ana Vitória da Paz', '1996-10-20', '368.542.791-19', 'teixeiramaria-sophia@mendes.br', '+55 21 7959 9493', 'Estação Cardoso, 472
+ ('Ana Vitória da Paz', '1996-10-20', '368.542.791-19', 'teixeiramaria-sophia@mendes.br', '21 7959 9493', 'Estação Cardoso, 472
 Vila Das Oliveiras
 78512-217 Sales do Campo / CE'), 
- ('João Pedro da Mata', '1999-09-05', '608.417.592-94', 'vda-paz@uol.com.br', '+55 71 6132-1990', 'Lago de Barbosa, 148
+ ('João Pedro da Mata', '1999-09-05', '608.417.592-94', 'vda-paz@uol.com.br', '71 6132-1990', 'Lago de Barbosa, 148
 Flamengo
 94546-477 Rezende / RS'), 
  ('Dr. Marcelo Jesus', '1997-01-25', '869.145.307-93', 'luiz-miguel11@nascimento.com', '0800-419-3925', 'Travessa de Nunes, 3
@@ -197,10 +197,10 @@ São Luiz
  ('Evelyn Costa', '1999-11-17', '925.648.710-11', 'pvieira@nascimento.com', '21 4612 2654', 'Recanto Moreira, 30
 Vila Mangueiras
 79445-118 Alves Paulista / AL'), 
- ('Bruno Duarte', '1996-05-19', '509.836.217-21', 'lopesalexandre@hotmail.com', '+55 81 9100 1952', 'Campo Gabriela Azevedo, 54
+ ('Bruno Duarte', '1996-05-19', '509.836.217-21', 'lopesalexandre@hotmail.com', '81 9100 1952', 'Campo Gabriela Azevedo, 54
 Jardim Felicidade
 61628-001 Pires do Sul / AL'), 
- ('Nicole Martins', '2002-08-19', '681.039.425-70', 'xlima@da.org', '+55 (011) 4025 3521', 'Avenida de Rocha, 858
+ ('Nicole Martins', '2002-08-19', '681.039.425-70', 'xlima@da.org', '(011) 4025 3521', 'Avenida de Rocha, 858
 Vila Esplanada
 09158238 Moreira do Campo / RO'), 
  ('Bianca Ramos', '1998-08-18', '190.238.476-87', 'das-nevespedro-lucas@hotmail.com', '(021) 6986 2507', 'Pátio Moraes, 85
